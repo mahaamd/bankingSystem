@@ -1,0 +1,33 @@
+body {
+  padding: 20px;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+}
+
+a {
+  color: #00B7FF;
+}
+
+.round-box {
+  margin: 20px;
+  padding: 20px;
+  border: 1px solid black;
+  border-radius: 15px;
+  background-color: antiquewhite;
+  color: darkblue;
+  width: 10vw;
+
+}
+
+.create-main-box {
+  margin: 20px;
+  padding: 20px;
+  border: 1px solid black;
+  border-radius: 15px;
+  background-color: antiquewhite;
+  color: darkblue;
+  width: 30vw;
+}
+
+td {
+  padding: 10px;
+}
